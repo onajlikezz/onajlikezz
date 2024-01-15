@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onajlikezz" alt="onajlikezz" /></a> </p>
 
-<p align="center"> 🔭 I’m currently working on</p>
+<p align="center"> 🔭 I’m currently working on <a href="https://github.com/onajlikezz/DiscordGenBot" target="_blank">Discord Gen Bot!</a></p>
 
 <p align="center"> 🌱 I’m currently learning HTML, CSS, Batch, JavaScript</p>
 
