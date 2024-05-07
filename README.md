@@ -1,5 +1,5 @@
 [![MasterHead](https://share.creavite.co/F02pJlV3qG0w1UTH.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Ilija</h1>
+<h1 align="center">Hi 👋, I'm Likezz</h1>
 <h3 align="center">A passionate developer from Serbia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=onajlikezz&label=Profile%20views&color=0e75b6&style=flat" alt="onajlikezz" /> </p>
