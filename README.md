@@ -2,15 +2,15 @@
 ### A passionate developer from Serbia 🇷🇸
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Building+Discord+Bots;Learning+Web+Development;Passionate+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Building+Game+Launchers;Learning+Web+Development;Passionate+Developer" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[Discord Gen Bot](https://github.com/onajlikezz/DiscordGenBot)**
+- 🔭 I’m currently working on **[Nightlight-Game-Launcher](https://github.com/onajlikezz/Nightlight-Game-Launcher)**
 - 🌱 I’m currently learning **HTML, CSS, Batch,** and **JavaScript**
-- 💬 Ask me about **Discord bots or my coding journey**
+- 💬 Ask me about **my game launcher, Discord bots, or my coding journey**
 - 📫 Reach out to me: See my socials below!
 
 ### 🛠️ Languages and Tools
@@ -30,9 +30,9 @@
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **Discord Gen Bot** | My custom Discord generator bot. | [View Repository](https://github.com/onajlikezz/DiscordGenBot) |
-| **Project Two** | *Add a short description of your second best project here.* | [View Repository](https://github.com/onajlikezz/YOUR_REPO_NAME) |
-| **Project Three** | *Add a short description of your third best project here.* | [View Repository](https://github.com/onajlikezz/YOUR_REPO_NAME) |
+| **Nightlight-Game-Launcher** | A custom game launcher I am currently developing. | [View Repository](https://github.com/onajlikezz/Nightlight-Game-Launcher) |
+| **NightCraft-Client** | A custom Minecraft client. | [View Repository](https://github.com/onajlikezz/NightCraft-Client) |
+| **DiscordGenBot** | My custom Discord generator bot. | [View Repository](https://github.com/onajlikezz/DiscordGenBot) |
 
 <br>
 
@@ -49,4 +49,3 @@
   <a href="https://instagram.com/onajkun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://discord.gg/Kj64D4ddtK"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
-
