@@ -2,7 +2,7 @@
 ### A passionate developer from Serbia
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Building+Game+Launchers;Learning+Web+Development;Passionate+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Nightlight+Game+Launcher;Discord+Username+Checker;Discord+Bots" alt="Typing SVG" />
 </div>
 
 ---
