@@ -30,7 +30,7 @@
 | Project Name | Description | Link |
 |--------------|-------------|------|
 | **Nightlight-Game-Launcher** | A custom game launcher I am currently developing. | [View Repository](https://github.com/onajlikezz/Nightlight-Game-Launcher) |
-| **NightCraft-Client** | A custom Minecraft client. | [View Repository](https://github.com/onajlikezz/NightCraft-Client) |
+| **Nightlight-Launcher-Legacy** | V4 of Nightlight Game Launcher Redesigned. | [View Repository](https://github.com/onajlikezz/Nightlight-Launcher-Legacy) |
 | **DiscordGenBot** | My custom Discord generator bot. | [View Repository](https://github.com/onajlikezz/DiscordGenBot) |
 
 <br>
